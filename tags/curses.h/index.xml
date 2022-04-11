@@ -13,7 +13,7 @@
       <pubDate>Mon, 11 Apr 2022 17:14:25 +0530</pubDate>
       
       <guid>/blogs/curses/</guid>
-      <description>Using ncurses library with C Hello there today i will cover some basic functions of &amp;lt;curses.h&amp;gt; library in c Compile using -lncurses flag in gcc like
+      <description>Using ncurses library with C Hello there today i will cover some basic functions of &amp;lt;curses.h&amp;gt; library in c. firstly to Compile in gcc you must use -lncurses flag for curses library like this :
 gcc &amp;lt;fileName&amp;gt;.c -lncurses
 Basic curses Functions    Function Description     initscr() Starts Curses mode ans sets up stdscr (Standard screen)   printw() Print on the screen   refresh() Refresh the screen   clear() Clears the screen   getch() Get user input   endwin() End curses mode   raw() Disable line buffering   noecho() Don&amp;rsquo;t print user input by default   keypad(stdscr, TRUE); Enable Function keys input    Some examples with Curses Hello World #include &amp;lt;curses.</description>
     </item>
