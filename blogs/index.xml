@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Dinex-Dev</title>
-    <link>/blogs/</link>
+    <link>dinex-dev.github.io/blogs/</link>
     <description>Recent content in Blogs on Dinex-Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Apr 2022 17:14:25 +0530</lastBuildDate><atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 17:14:25 +0530</lastBuildDate><atom:link href="dinex-dev.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curses</title>
-      <link>/blogs/curses/</link>
+      <link>dinex-dev.github.io/blogs/curses/</link>
       <pubDate>Mon, 11 Apr 2022 17:14:25 +0530</pubDate>
       
-      <guid>/blogs/curses/</guid>
+      <guid>dinex-dev.github.io/blogs/curses/</guid>
       <description>Using ncurses library with C Hello there today i will cover some basic functions of &amp;lt;curses.h&amp;gt; library in c. firstly to Compile in gcc you must use -lncurses flag for curses library like this :
 gcc &amp;lt;fileName&amp;gt;.c -lncurses
 Basic curses Functions    Function Description     initscr() Starts Curses mode ans sets up stdscr (Standard screen)   printw() Print on the screen   refresh() Refresh the screen   clear() Clears the screen   getch() Get user input   endwin() End curses mode   raw() Disable line buffering   noecho() Don&amp;rsquo;t print user input by default   keypad(stdscr, TRUE); Enable Function keys input    Some examples with Curses Hello World #include &amp;lt;curses.</description>

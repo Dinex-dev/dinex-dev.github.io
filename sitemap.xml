@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blogs/</loc>
+    <loc>dinex-dev.github.io/blogs/</loc>
     <lastmod>2022-04-11T17:14:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/c-language/</loc>
+    <loc>dinex-dev.github.io/tags/c-language/</loc>
     <lastmod>2022-04-11T17:14:25+05:30</lastmod>
   </url><url>
-    <loc>/blogs/curses/</loc>
+    <loc>dinex-dev.github.io/blogs/curses/</loc>
     <lastmod>2022-04-11T17:14:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/curses.h/</loc>
+    <loc>dinex-dev.github.io/tags/curses.h/</loc>
     <lastmod>2022-04-11T17:14:25+05:30</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>dinex-dev.github.io/</loc>
     <lastmod>2022-04-11T17:14:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>dinex-dev.github.io/tags/</loc>
     <lastmod>2022-04-11T17:14:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/tutorial/</loc>
+    <loc>dinex-dev.github.io/tags/tutorial/</loc>
     <lastmod>2022-04-11T17:14:25+05:30</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>dinex-dev.github.io/categories/</loc>
   </url>
 </urlset>
